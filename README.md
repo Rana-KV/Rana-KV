@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranava (Rana)</h1>
-<h3 align="center">An afficinado of Information security</h3>
+<h3 align="center">An aficionado of Information security</h3>
 
 - 🔭 I’m currently working on **CNCF TAG Security**
 
