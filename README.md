@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **CNCF TAG Security**
 
-- 💬 Ask me about **Threat and Risk Assessment**
+- 💬 Ask me about **Application Security**, **Threat and Risk Assessment**, **Cryptography** and **Adversarial ML**
 
 - 📫 How to reach me **pv2160@nyu.edu**
 
